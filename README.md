@@ -1,8 +1,7 @@
 <div align="center">
-<img src="./images/logo.svg" alt="icon" width="50px"/>
-<h1 align="center">GPT-API-free</h1>
+<h1 align="center">ChatGPT3.5/4.0GPT-APIKEY-free</h1>
 
-支持 **GPT-4** / GPT-3.5-Turbo / GPT-3.5-Turbo-16K / embeddings / DALL·E / whisper / text-davinci
+支持 **GPT-4** / GPT-3.5
 
 国内动态加速 直连无需代理
 
@@ -19,7 +18,7 @@
 但OpenAI官方会根据其[数据使用政策](https://platform.openai.com/docs/data-usage-policies)保留 30 天的数据。
 
 ## 👏广告
-ChatGPT3.5/5刀120刀, ChatGPT4.0 30刀/500刀/100刀 DALLE, Claude, Azure Openai, Midjourney等集成部署。站内充值，邀请功能一应俱全，详情查看 https://vju35dgr.top
+ChatGPT3.5/5刀120刀, ChatGPT4.0 30刀/500刀/100刀 Openai, Midjourney等。站内充值，邀请功能一应俱全，详情查看 https://vju35dgr.top
 
 ## 更新日志
 - **2023年6月14日** 适配GPT-3.5-Turbo-16K，免费key也支持16k模型；付费key跟随官方价格降低收费。
@@ -65,7 +64,7 @@ ChatGPT3.5/5刀120刀, ChatGPT4.0 30刀/500刀/100刀 DALLE, Claude, Azure Opena
 - [购买低价付费Key](https://vju35dgr.top
 )
 
-1. **支持GPT4 API**，价格仅官方价格八折。
+1. **支持GPT3.5/4 API**，价格仅官方价格八折。
 1. 性价比高，除了GPT4的其他模型价格相当于官网价格七分之一。
 2. 同官网计费策略，流式问答使用tiktoken库准确计算Tokens，非流式问答直接使用官方返回Tokens用量计费。
 3. 余额不会过期，永久有效。根据用户反馈30块钱个人中度使用GPT3.5估计能用一年。
