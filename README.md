@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">ChatGPT3.5/4.0GPT-APIKEY-free</h1>
 
-支持 **GPT-4** / GPT-3.5
+支持 **GPT-4** / GPT-3.5，支持GPT4 API低价批发购买，ChatGPT可用国内免费转发API，直连消耗代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本限制。国内即可无限制畅快聊天。
 
 国内动态加速 直连无需代理
 
