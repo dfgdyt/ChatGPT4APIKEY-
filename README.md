@@ -156,10 +156,6 @@ ChatGPT开源桌面应用，支持全部桌面平台。
 ![](images/raycast1.png)
 
 2. 安装完成后在该插件配置中的 `API Key` 中填入我们的API Key，以及选中 `Change API Endpoint`，并在 `API Endpoint` 中填入 `https://vju35dgr.top
-`
-![](images/raycast2.png)
-![](images/raycast3.png)
-
 ChatGPT下载
 ChatGPT官网地址
 chatgpt国内能用吗？
@@ -201,24 +197,18 @@ ChatGPT监管：生成式人工智能对信息传播的影响
 ChatGPT注册教程，轻松快速入门
 外国小哥同时打4份工,用ChatGPT完成80%工作
 ChatGPT类应用服务，数据合规的看法
-
-
 ChatGPT获政策支持！ChatGPT概念股大幅走强
 ChatGPT的“狂风”正吹向电商
 AutoGPT是什么？使ChatGPT的使用变得轻而易举
 微软计划推出私人ChatGPT服务，防止数据泄露给ChatGPT
 ChatGPT如何帮助儿童学习
 ​ChatGPT在药物发现方面的前景 
-
 ChatGPT教你如何准备与申请海外留学
-
 通过ChatGPT赚钱的技巧！
 ChatGPT的公司OpenAI的创始人的故事
 通过使用ChatGPT分析畅销书，我赚了 3,043 美元
 ChatGPT为代表的大模型如何在各行业落地？
 用ChatGPT写文书材料
-
-
 chatgpt中医体验，医生说gpt4的答案跟他的诊断和用药思路有八九成相似
 最先受到ChatGPT影响的职业
 传音控股：全球首家介入ChatGPT融合手机端上市
@@ -877,6 +867,7 @@ chat GPT对于人类未来的工作会有哪些影响？
 人工智能、大模型和Chat - GPT的关系
 GPT-4：我的的工作助手
 GPT翻译利器：如何提高翻译质量和效率，让你的翻译更加准确和流畅
+
 选择最适合自己需求的GPT-4插件
 用 chatGPT4打游戏是个什么体验
 基于GPT设计数据产品的一些思考
